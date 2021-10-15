@@ -1,7 +1,3 @@
-'''
-This script is for problem 2 on WebHomework1
-'''
-
 import re
 import requests
 
